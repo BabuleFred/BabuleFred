@@ -24,7 +24,7 @@ OpenRouter / локальные модели (Ollama).
 
 | Проект | Что это |
 |--------|---------|
-| tasamayaeda-bot | Боевой VK-бот приёма заказов: 37 модулей, 225 тестов, Docker + systemd, LLM-агент. **Приватный** — код покажу по запросу |
+| [vk-order-bot](https://github.com/BabuleFred/vk-order-bot) | Бот приёма заказов в сообществе ВКонтакте: 37 модулей, 225 тестов, печать чеков по цехам, LLM-агент, Docker + systemd |
 | [lead-scraper](https://github.com/BabuleFred/lead-scraper) | Сбор и ранжирование лидов из открытого каталога: парсинг schema.org, скоринг, HTML-отчёт |
 | [monopoly-online](https://github.com/BabuleFred/monopoly-online) | Русская Монополия для 2–6 игроков в браузере: Node.js + WebSocket, вся логика на сервере, 52 теста |
 | [zombination](https://github.com/BabuleFred/zombination) | Ремейк флеш-игры на HTML5 Canvas: без ассетов, вся графика и звук генерируются кодом |
